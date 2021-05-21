@@ -1,0 +1,11 @@
+{
+    "pc_path":"/media/cloud/Data/benchmark_datasets/oxford/2014-05-19-13-20-57/pointcloud_20m_10overlap/",
+    "kp_path": "/media/cloud/Data/test_results/keypoints/",
+    "filename":"1400505894395159",
+    "pc_size":2,
+    "kp_size":5,
+    "segments_size":3,
+    "setClusterTolerance":0.05,
+    "setMinClusterSize":20,
+    "setMaxClusterSize":5000
+}
